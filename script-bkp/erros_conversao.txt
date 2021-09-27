@@ -1,5 +1,0 @@
-converte-jpg-png.sh: line 4: cd: /home/joliveira/workspace/linux/imagens-livross: No such file or directory
-ls: cannot access '*.jpg': No such file or directory
-convert-im6.q16: unable to open image `.jpg': No such file or directory @ error/blob.c/OpenBlob/2874.
-convert-im6.q16: no decode delegate for this image format `' @ error/constitute.c/ReadImage/560.
-convert-im6.q16: no images defined `png/.png' @ error/convert.c/ConvertImageCommand/3258.

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 converte-imagem(){
-cd ~/workspace/linux/imagens-livros
+cd ~/imagens-livros
 
 if [ ! -d png ]
 then
