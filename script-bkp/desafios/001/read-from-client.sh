@@ -2,9 +2,7 @@
 
 cd ~/alura-shellscript/script-bkp/desafios
 
-#$guest1 
-#$guest2  
-#$days 
+
 TRUE=1
 FALSE=0
 paramsValidation() {
@@ -42,3 +40,4 @@ readFromClient() {
 readFromClient
 
 
+export -f readFromClient
